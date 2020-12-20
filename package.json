@@ -1,0 +1,24 @@
+{
+  "name": "gulp-4 es6 dev prod",
+  "version": "1.0.0",
+  "description": "A Gulp 4 ES6 build with development and production scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsguerra/gulp-4-es6-dev-prod.git"
+  },
+  "keywords": [
+    "gulp",
+    "es6",
+    "scss"
+  ],
+  "author": "Jose Guerra",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jsguerra/gulp-4-es6-dev-prod/issues"
+  },
+  "homepage": "https://github.com/jsguerra/gulp-4-es6-dev-prod#readme"
+}
