@@ -10,7 +10,8 @@
 // 07 Vendors
 // ==============================
 
-@use './abstracts/index';
+@use './abstracts/site-config';
+@use './abstracts/mixins';
 // @use './base/index';
 // @use './components/index';
 // @use './layout/index';
