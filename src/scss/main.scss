@@ -10,13 +10,9 @@
 // 07 Vendors
 // ==============================
 
-@use './abstracts/site-config';
-@use './abstracts/mixins';
-@use './vendors/bootstrap-reboot';
-@use './layout/header';
-@use './layout/footer';
-// @use './base/index';
-// @use './components/index';
-// @use './layout/index';
-// @use './pages/index';
-// @use './vendors/index';
+@use 'abstracts';
+@use 'vendors';
+@use 'base';
+@use 'components';
+@use 'layout';
+@use 'pages';
