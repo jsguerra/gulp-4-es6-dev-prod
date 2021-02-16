@@ -9,6 +9,7 @@
 // 06 Themes (not used)
 // 07 Vendors
 // ==============================
+// Dart Sass currently always outputs UTF-8 so no need for @charset
 
 @use 'abstracts';
 @use 'vendors';
